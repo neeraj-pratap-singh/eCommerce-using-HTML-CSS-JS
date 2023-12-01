@@ -1,52 +1,44 @@
-# eCommerce Website using HTML, CSS, & JavaScript
+# Atulya - An eCommerce Website
 
-## Project Overview
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Atulya-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Atulya-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Atulya-ecommerce-website?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-This project is a basic eCommerce website built using HTML, CSS, and JavaScript. It showcases a catalog of products, enables users to add items to a cart, and simulates the checkout process.
+Atulya is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-## Features
+## Demo
 
-- **Product Gallery:** Displays a list of products with images, descriptions, and prices.
-- **Shopping Cart:** Users can add products to a cart and view them before purchase.
-- **Filter and Search Functionality:** Allows users to filter products based on categories and search for products.
-- **Responsive Design:** The site is fully responsive and works on various devices and screen sizes.
-- **Checkout Simulation:** A checkout page that simulates the process of completing a purchase.
+![Atulya Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Atulya Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Technologies Used
+## Prerequisites
 
-- **HTML:** Structure of the web pages.
-- **CSS:** Styling of the web components.
-- **JavaScript:** Interactive elements and dynamic content.
+Before you begin, ensure you have met the following requirements:
 
-## Setup and Installation
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-To run this project locally:
+## Installing Atulya
 
-1. Clone the repository to your local machine:
-   ```
-   git clone https://github.com/neeraj-pratap-singh/eCommerce-using-HTML-CSS-JS.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd eCommerce-using-HTML-CSS-JS
-   ```
-3. Open the `index.html` file in a web browser.
+To install **Atulya**, follow these steps:
 
-## How to Use
+Linux and macOS:
 
-- Browse through the product catalog on the homepage.
-- Click on a product to add it to your shopping cart.
-- Visit the cart page to review your selections.
-- Proceed to the checkout page to complete your purchase simulation.
+```bash
+sudo git clone https://github.com/codewithsadee/Atulya-ecommerce-website.git
+```
 
-## Contributing
+Windows:
 
-Contributions to improve the project are welcome. Before contributing, please read our contributing guidelines (if available). You can contribute in the following ways:
+```bash
+git clone https://github.com/codewithsadee/Atulya-ecommerce-website.git
+```
 
-- Submitting bugs and feature requests.
-- Improving documentation.
-- Submitting pull requests to propose changes.
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is **free to use** and does not contains any license.
